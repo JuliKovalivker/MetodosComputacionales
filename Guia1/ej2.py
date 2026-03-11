@@ -40,11 +40,12 @@ def multiplicacion_de_matrices(x, y):
     return res    
 
 matriz_a = [[1, 2, 3],
-            [4, 5, 6]]
+            [4, 5, 6],
+            [7, 8, 9]]
 
-matriz_b = [[0, 1],
-            [2, 3],
-            [4, 5]]
+matriz_b = [[0, 1, 2],
+            [2, 3, 4],
+            [4, 5, 6]]
 
 # matriz_c = suma_y_resta(matriz_a, matriz_b, "+")
 # print(matriz_c)
